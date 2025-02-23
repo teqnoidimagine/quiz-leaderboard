@@ -1,4 +1,14 @@
 {
-  "round1": [],
+  "round1": [
+    {
+      "id": 1,
+      "tableNo": 5,
+      "score": 2,
+      "time": "0:13",
+      "answered": true,
+      "createdAt": "2025-02-23T18:28:09.152Z",
+      "updatedAt": "2025-02-23T18:28:09.152Z"
+    }
+  ],
   "round2": []
 }
