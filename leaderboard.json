@@ -37,6 +37,15 @@
       "answered": true,
       "createdAt": "February 23, 2025 at 7:05:25 PM UTC",
       "updatedAt": "February 23, 2025 at 7:05:25 PM UTC"
+    },
+    {
+      "id": 2,
+      "tableNo": 6,
+      "score": 0,
+      "time": "0:19",
+      "answered": true,
+      "createdAt": "February 23, 2025 at 7:52:26 PM UTC",
+      "updatedAt": "February 23, 2025 at 7:52:26 PM UTC"
     }
   ]
 }
