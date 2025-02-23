@@ -8,6 +8,15 @@
       "answered": true,
       "createdAt": "2025-02-23T18:28:09.152Z",
       "updatedAt": "2025-02-23T18:28:09.152Z"
+    },
+    {
+      "id": 2,
+      "tableNo": 6,
+      "score": 1,
+      "time": "0:13",
+      "answered": true,
+      "createdAt": "2025-02-23T18:40:07.182Z",
+      "updatedAt": "2025-02-23T18:40:07.182Z"
     }
   ],
   "round2": []
