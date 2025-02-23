@@ -19,5 +19,15 @@
       "updatedAt": "2025-02-23T18:40:07.182Z"
     }
   ],
-  "round2": []
+  "round2": [
+    {
+      "id": 1,
+      "tableNo": 5,
+      "score": 5,
+      "time": "1:37",
+      "answered": true,
+      "createdAt": "February 23, 2025 at 7:05:25 PM UTC",
+      "updatedAt": "February 23, 2025 at 7:05:25 PM UTC"
+    }
+  ]
 }
