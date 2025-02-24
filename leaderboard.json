@@ -147,6 +147,15 @@
       "updatedAt": "February 23, 2025 at 7:05:25 PM UTC"
     },
     {
+      "id": 9,
+      "tableNo": 1,
+      "score": 0,
+      "time": "00:04",
+      "answered": true,
+      "createdAt": "February 24, 2025 at 5:52:48 PM IST",
+      "updatedAt": "February 24, 2025 at 5:52:48 PM IST"
+    },
+    {
       "id": 4,
       "tableNo": 12,
       "score": 0,
