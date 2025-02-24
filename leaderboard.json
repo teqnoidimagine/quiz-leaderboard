@@ -64,6 +64,15 @@
       "updatedAt": "2025-02-23T18:40:07.182Z"
     },
     {
+      "id": 10,
+      "tableNo": 4,
+      "score": 1,
+      "time": "01:04",
+      "answered": true,
+      "createdAt": "February 24, 2025 at 1:26:59 PM IST",
+      "updatedAt": "February 24, 2025 at 1:26:59 PM IST"
+    },
+    {
       "id": 8,
       "tableNo": 2,
       "score": 0,
