@@ -19,6 +19,15 @@
       "updatedAt": "February 23, 2025 at 8:04:23 PM UTC"
     },
     {
+      "id": 5,
+      "tableNo": 12,
+      "score": 3,
+      "time": "0:13",
+      "answered": true,
+      "createdAt": "February 24, 2025 at 4:50:27 AM UTC",
+      "updatedAt": "February 24, 2025 at 4:50:27 AM UTC"
+    },
+    {
       "id": 1,
       "tableNo": 5,
       "score": 2,
