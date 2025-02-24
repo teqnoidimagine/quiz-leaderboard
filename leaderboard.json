@@ -46,6 +46,15 @@
       "updatedAt": "February 24, 2025 at 5:34:17 AM UTC"
     },
     {
+      "id": 12,
+      "tableNo": 15,
+      "score": 3,
+      "time": "00:42",
+      "answered": true,
+      "createdAt": "February 24, 2025 at 4:25:27 PM IST",
+      "updatedAt": "February 24, 2025 at 4:25:27 PM IST"
+    },
+    {
       "id": 3,
       "tableNo": 1,
       "score": 3,
