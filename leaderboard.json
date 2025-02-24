@@ -44,6 +44,15 @@
       "answered": true,
       "createdAt": "2025-02-23T18:40:07.182Z",
       "updatedAt": "2025-02-23T18:40:07.182Z"
+    },
+    {
+      "id": 6,
+      "tableNo": 13,
+      "score": 0,
+      "time": "00:48",
+      "answered": true,
+      "createdAt": "February 24, 2025 at 5:33:23 AM UTC",
+      "updatedAt": "February 24, 2025 at 5:33:23 AM UTC"
     }
   ],
   "round2": [
