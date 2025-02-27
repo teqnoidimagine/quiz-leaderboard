@@ -26,6 +26,15 @@
       "answered": true,
       "createdAt": "February 26, 2025 at 10:37:58 AM IST",
       "updatedAt": "February 26, 2025 at 10:37:58 AM IST"
+    },
+    {
+      "id": 4,
+      "tableNo": 15,
+      "score": 0,
+      "time": "00:00",
+      "answered": true,
+      "createdAt": "February 27, 2025 at 9:50:12 PM IST",
+      "updatedAt": "February 27, 2025 at 9:50:12 PM IST"
     }
   ],
   "round2": []
