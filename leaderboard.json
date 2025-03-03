@@ -46,5 +46,15 @@
       "updatedAt": "February 27, 2025 at 9:50:12 PM IST"
     }
   ],
-  "round2": []
+  "round2": [
+    {
+      "id": 1,
+      "tableNo": 6,
+      "score": 0,
+      "time": "00:05",
+      "answered": true,
+      "createdAt": "March 3, 2025 at 3:21:18 PM IST",
+      "updatedAt": "March 3, 2025 at 3:21:18 PM IST"
+    }
+  ]
 }
